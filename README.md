@@ -1,4 +1,4 @@
-# Quantum
+# Dirac notation representing the tensor product of EPR (Einstein-Podolsky-Rosen) pairs for Entanglement Swapping analysis purposes
 
 
 This Jupyter Notebook is a versatile computational tool designed to calculate the Dirac notation resulting from the tensor product of EPR (Einstein-Podolsky-Rosen) pairs. It serves as an essential resource for those aiming to precisely compute and visualize the Dirac notation resulting from the tensor product of EPR pairs, facilitating a deeper understanding of quantum entanglement in quantum mechanics.
