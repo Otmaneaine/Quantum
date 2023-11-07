@@ -18,7 +18,7 @@ This Jupyter Notebook is a versatile computational tool designed to calculate th
 
 ## Getting Started
 
-1. Ensure you have Jupyter Notebook installed on your system. If not, you can  either easily run it on Google CoLab, or install Jupyter Notebook via [Jupyter's installation guide](https://jupyter.org/install).
+1. Ensure you have Jupyter Notebook installed on your system. If not, you can  either easily run it on Google CoLab, or install Jupyter Notebook via [Jupyter's installation guide](https://jupyter.org/install). 
 
 2. Clone or download this repository to your local machine.
 
